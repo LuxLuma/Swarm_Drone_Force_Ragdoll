@@ -62,7 +62,7 @@ public Plugin myinfo =
 	author = "Lux",
 	description = "Forces alien drones to ragdoll and gibs underheavy load for perf reasons",
 	version = PLUGIN_VERSION,
-	url = "https://forums.alliedmods.net/showthread.php?p=2645156"
+	url = "https://forums.alliedmods.net/showthread.php?t=315209"
 };
 
 
